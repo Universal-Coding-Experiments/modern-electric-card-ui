@@ -10,8 +10,8 @@ A high-performance, futuristic card interface built using **Procedural SVG Turbu
 
 ### 🔗 Explore the Project
 - **[⚡ Live Demo](https://universal-coding-experiments.github.io/modern-electric-card-ui/)**
-- **[� GitHub Repository](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui.git)**
-
+- **[🤖 GitHub Repository](https://github.com/Universal-Coding-Experiments/modern-electric-card-ui.git)**
+- **[⚙️ Based on](https://youtube.com/shorts/nFTwQrw4KLo?si=a6fNDa2ubpG7a4b2)**
 ---
 
 ## 🚀 Key Features
